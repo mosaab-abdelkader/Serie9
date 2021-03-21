@@ -1,0 +1,17 @@
+# Ceci est une ligne de commentaires
+bean.name=p1
+p1.class=org.douifi.model.Person
+p1.lastName=Tabarly
+p1.firstName=Eric
+p1.age=32
+bean.name=p2
+p2.class=org.douifi.model.Employee
+p2.lastName=Auguin
+p2.firstName=Christophe
+p2.age=25
+p2.salary=12000
+p3.class=org.douifi.model.Employee
+p3.lastName=Douifi
+p3.firstName=Mosaab 
+p3.age=23
+p3.salary=72000
